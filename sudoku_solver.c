@@ -37,7 +37,7 @@ void solve_sudoku(GtkWidget *wid , gpointer *ptr)
                 gtk_button_set_label(s_data->puzzel[i][j],str);
 //                printf("%d,",puzzel[i][j]);
             }
-            printf("\n");
+            // printf("\n");
         }
     }
     else
