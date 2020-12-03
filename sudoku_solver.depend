@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1606992420 source:/home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/main.c
+	<gtk-2.0/gtk/gtk.h>
+	<gdk/gdkkeysyms.h>
+	<stdio.h>
+	"virtual_keyboard.h"
+	"sudoku_solver.h"
+	"new_puzzel.h"
+	"help.h"
+
+1575976750 /usr/include/gtk-2.0/gdk/gdkkeysyms.h
+	<gdk/gdkkeysyms-compat.h>
+
+1575976750 /usr/include/gtk-2.0/gdk/gdkkeysyms-compat.h
+
+1606993293 source:/home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/virtual_keyboard.c
+	"virtual_keyboard.h"
+
+1606920765 /home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/virtual_keyboard.h
+	<gtk-2.0/gtk/gtk.h>
+
+1606754074 source:/home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/menu_bar.c
+
+1606921857 source:/home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/about.c
+	"about.h"
+
+1606920957 /home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/about.h
+	<gtk-2.0/gtk/gtk.h>
+
+1606932063 /home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/help.h
+	<gtk-2.0/gtk/gtk.h>
+
+1606993488 source:/home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/help.c
+	"help.h"
+
+1606992815 /home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/sudoku_solver.h
+	<gtk-2.0/gtk/gtk.h>
+
+1606993015 source:/home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/sudoku_solver.c
+	"sudoku_solver.h"
+
+1606991972 /home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/new_puzzel.h
+	<gtk-2.0/gtk/gtk.h>
+
+1606992000 source:/home/abolfazl/Desktop/CProjects/GUI/sudoku_solver/new_puzzel.c
+	"new_puzzel.h"
+
